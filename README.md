@@ -27,4 +27,9 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0338-counting-bits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
