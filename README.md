@@ -7,6 +7,7 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0001-two-sum/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,8 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0338-counting-bits/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
