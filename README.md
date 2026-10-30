@@ -8,6 +8,7 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0001-two-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,5 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
