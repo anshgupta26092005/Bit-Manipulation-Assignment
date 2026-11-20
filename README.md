@@ -7,12 +7,14 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0169-majority-element/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0169-majority-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +26,7 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0191-number-of-1-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -39,4 +42,16 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
