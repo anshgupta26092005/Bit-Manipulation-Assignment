@@ -7,6 +7,7 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0001-two-sum/) | Easy |
+| [0088-merge-sorted-array](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0169-majority-element/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -45,6 +46,7 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -54,4 +56,8 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0169-majority-element/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
