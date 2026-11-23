@@ -34,6 +34,7 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0338-counting-bits/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +61,12 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0088-merge-sorted-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 <!---LeetCode Topics End-->
