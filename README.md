@@ -35,6 +35,7 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | [0191-number-of-1-bits](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0338-counting-bits/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,8 +66,13 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 <!---LeetCode Topics End-->
