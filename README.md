@@ -36,6 +36,7 @@ C programming assignments based on bit manipulation, bitwise operators, binary r
 | [0338-counting-bits](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0338-counting-bits/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0868-binary-gap](https://github.com/anshgupta26092005/Bit-Manipulation-Assignment/tree/main/0868-binary-gap/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
